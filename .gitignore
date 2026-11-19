@@ -1,0 +1,24 @@
+# Local credentials and user data
+.env
+.env.local
+.env.*.local
+config.json
+settings.json
+audit.jsonl
+*.log
+# Installed dependencies and builds
+node_modules/
+.venv/
+.bot-python312/
+__pycache__/
+*.pyc
+*.exe
+*.dll
+build/
+dist/
+runtime/
+.DS_Store
+Thumbs.db
+tools/
+Результаты/
+download-*/
